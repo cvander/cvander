@@ -6,13 +6,14 @@ These days, when I am hacking for pleasure,
 - 🔭 I’m currently researching:
   - Autonomous AI agents
   - Travel tools, blogs, communities and hacks in this industry
+  - Scraping for Investment, VC, funds and startups news (reddit, linkedin, twitter, website content)
   - Vibecoding tools (I lead a couple communities here)
-- 🌱 I’m currently learning everything about Cursor & Claude Code 
+- 🌱 I’m currently learning everything about Cursor, Claude Code, CodeX and Gemini 3
 - 💬 Ask me about Startups, SF life and Travel hacks
 
 # Projects
 - Blog: [cvander.com](https://cvander.com)
-  - Also check the [Substack](https://cvandernews.substack.com) 
+  - Also check the [Substack](https://news.cvander.com) 
   - And the [Instagram Channel](https://instagram.com/cvander) 
   - Ask me about communities in WhatsApp that I lead
 - Investments: [region4.vc](https://region4.vc)
