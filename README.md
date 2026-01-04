@@ -14,7 +14,7 @@ These days, when I am hacking for pleasure,
 # Projects
 - Blog: [cvander.com](https://cvander.com)
   - Also check the [Substack](https://news.cvander.com) 
-  - And the [Instagram Channel](https://instagram.com/cvander) 
+  - And the [Instagram Channel](https://ig.me/j/AbZ-eKPIALi2BCqv/11m) 
   - Ask me about communities in WhatsApp that I lead
 - Investments: [region4.vc](https://region4.vc)
   - More than a pitch, send me a demo of your product
