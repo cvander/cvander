@@ -18,13 +18,13 @@ These days, when I am hacking for pleasure,
   - I lead many WhatsApp communities and IRL events in SF: Vibecoding Anónimos, YC del Sur.
 - Investments: [region4.vc](https://region4.vc)
   - Send me a demo of your product. Prefer warm intros for pitch
-- Agent Autonomy: [reventlov.ai](https://reventlov.ai)
-  - Building AI agents that own and operate real businesses (LLCs, bank accounts, revenue) 
-  - Case study 2026:  [Valerie](https://reventlov.ai/valerie) - AI vending machine operating autonomously in Frontier Tower, SF
-    Live revenue, cashless payments, AI-powered inventory and customer dashboard
+- Agent Autonomy:
+  - Building AI agents that own and operate real businesses
+  - Open Source Agent [Maya](https://github.com/cvander/Maya) to Run a Traditional Bar in San Francisco.
+  - Case study 2026:  [Valerie](https://reventlov.ai/valerie), AI vending machine operating autonomously in Frontier Tower, SF
+  - Stealth Travel Agent: Travel intelligence tool with WhatsApp integration to maximize travel research, points and credit card management.
 - Restaurant wishlists: [cookfoodie.com](https://cookfoodie.com)
-- Stealth: Building a travel intelligence tool with WhatsApp integration.
-  Market research agent for professional profiles, VC investments and travel news. I scrape 500+ sources daily with agents to summarize these markets.
+- Market research agent for professional profiles, VC investments and travel news. I scrape 500+ sources daily with agents to summarize these markets.
 
 # Past
 - COO and CoFounder. [Platzi](https://platzi.com) W15. Launched in 2012. $350M valuation by Series C in 2022.
