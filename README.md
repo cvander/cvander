@@ -1,29 +1,30 @@
 ## Hi there 👋
 
 # Today
-These days, when I am hacking for pleasure,
+These days, when I am hacking (vibecoding) for pleasure,
 
 - 🔭 I’m currently researching:
   - Autonomous AI agents
   - Deploying Fund 2 of Region4, active angel investor
   - Travel tools, IRL communities in SF
-  - Vibecoding tools (I lead a couple communities in WhatsApp)
-- 🌱 I’m currently learning everything about Claude Code, Cursor & CodeX
+  - Vibecoding communities (I lead a few curated communities in WhatsApp)
+- 🌱 I’m currently learning everything about Codex, Grok Bot, Claude Code & Cursor
 - 💬 Ask me about Startups, SF life and Travel hacks
 
 # Projects
 - Blog: [cvander.com](https://cvander.com)
+  - For my feed of links and interesting things to share [cvander.com/news](https://cvander.com/news) 
   - Also check the [Substack](https://news.cvander.com) 
   - And the [Instagram Channel](https://ig.me/j/AbZ-eKPIALi2BCqv/11m) 
-  - I lead many WhatsApp communities and IRL events in SF: Vibecoding Anónimos, YC del Sur.
+  - I lead many curated WhatsApp communities and IRL events in SF: Vibecoding Anónimos, YC del Sur.
 - Investments: [region4.vc](https://region4.vc)
-  - Send me a demo of your product. Prefer warm intros for pitch
+  - Send me a demo of your product. I prioritize warm intros for calls/meetings.
 - Agent Autonomy:
   - Building AI agents that own and operate real businesses
   - Open Source Agent [Maya](https://github.com/cvander/Maya) to Run a Traditional Bar in San Francisco.
-  - Case study 2026:  [Valerie](https://reventlov.ai/valerie), AI vending machine operating autonomously in Frontier Tower, SF
-  - Stealth Travel Agent: Travel intelligence tool with WhatsApp integration to maximize travel research, points and credit card management.
-- Restaurant wishlists: [cookfoodie.com](https://cookfoodie.com)
+  - Travel dev tools for agents: [Agentravel](https://agentravel.dev). Testing ai agent concierges for maximizing travel research, automating booking and managing credit card and points management. 
+  - Case study 2026:  [Valerie](https://www.linkedin.com/pulse/she-named-her-own-machine-lessons-from-building-ai-van-der-henst--iragf), AI vending machine operating autonomously in Frontier Tower, SF
+- Restaurant Guides: [cookfoodie.com](https://cookfoodie.com). I test every new LLM with this project.
 - Market research agent for professional profiles, VC investments and travel news. I scrape 500+ sources daily with agents to summarize these markets.
 
 # Past
